@@ -1,0 +1,2 @@
+Setting,BLEU,chrF+,BERTScore_F1
+NLLB-200 (Direct Translation),0.5579,10.0003,0.8653
